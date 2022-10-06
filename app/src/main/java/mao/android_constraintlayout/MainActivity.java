@@ -71,5 +71,69 @@ public class MainActivity extends AppCompatActivity
                 startActivity(new Intent(MainActivity.this, MainActivity8.class));
             }
         });
+        findViewById(R.id.Button8).setOnClickListener(new View.OnClickListener()
+        {
+            @Override
+            public void onClick(View v)
+            {
+                startActivity(new Intent(MainActivity.this, MainActivity8.class));
+            }
+        });
+        findViewById(R.id.Button9).setOnClickListener(new View.OnClickListener()
+        {
+            @Override
+            public void onClick(View v)
+            {
+                startActivity(new Intent(MainActivity.this, MainActivity8.class));
+            }
+        });
+        findViewById(R.id.Button10).setOnClickListener(new View.OnClickListener()
+        {
+            @Override
+            public void onClick(View v)
+            {
+                startActivity(new Intent(MainActivity.this, MainActivity8.class));
+            }
+        });
+        findViewById(R.id.Button11).setOnClickListener(new View.OnClickListener()
+        {
+            @Override
+            public void onClick(View v)
+            {
+                startActivity(new Intent(MainActivity.this, MainActivity8.class));
+            }
+        });
+        findViewById(R.id.Button12).setOnClickListener(new View.OnClickListener()
+        {
+            @Override
+            public void onClick(View v)
+            {
+                startActivity(new Intent(MainActivity.this, MainActivity8.class));
+            }
+        });
+        findViewById(R.id.Button13).setOnClickListener(new View.OnClickListener()
+        {
+            @Override
+            public void onClick(View v)
+            {
+                startActivity(new Intent(MainActivity.this, MainActivity8.class));
+            }
+        });
+        findViewById(R.id.Button14).setOnClickListener(new View.OnClickListener()
+        {
+            @Override
+            public void onClick(View v)
+            {
+                startActivity(new Intent(MainActivity.this, MainActivity8.class));
+            }
+        });
+        findViewById(R.id.Button15).setOnClickListener(new View.OnClickListener()
+        {
+            @Override
+            public void onClick(View v)
+            {
+                startActivity(new Intent(MainActivity.this, MainActivity8.class));
+            }
+        });
     }
 }

@@ -100,7 +100,7 @@ public class MainActivity extends AppCompatActivity
             @Override
             public void onClick(View v)
             {
-                startActivity(new Intent(MainActivity.this, MainActivity8.class));
+                startActivity(new Intent(MainActivity.this, MainActivity12.class));
             }
         });
         findViewById(R.id.Button12).setOnClickListener(new View.OnClickListener()

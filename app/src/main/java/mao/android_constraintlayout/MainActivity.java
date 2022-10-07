@@ -148,7 +148,7 @@ public class MainActivity extends AppCompatActivity
             @Override
             public void onClick(View v)
             {
-                startActivity(new Intent(MainActivity.this, MainActivity16.class));
+                startActivity(new Intent(MainActivity.this, MainActivity18.class));
             }
         });
         findViewById(R.id.Button18).setOnClickListener(new View.OnClickListener()

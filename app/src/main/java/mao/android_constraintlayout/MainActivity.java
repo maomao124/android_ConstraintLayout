@@ -135,5 +135,37 @@ public class MainActivity extends AppCompatActivity
                 startActivity(new Intent(MainActivity.this, MainActivity16.class));
             }
         });
+        findViewById(R.id.Button16).setOnClickListener(new View.OnClickListener()
+        {
+            @Override
+            public void onClick(View v)
+            {
+                startActivity(new Intent(MainActivity.this, MainActivity17.class));
+            }
+        });
+        findViewById(R.id.Button17).setOnClickListener(new View.OnClickListener()
+        {
+            @Override
+            public void onClick(View v)
+            {
+                startActivity(new Intent(MainActivity.this, MainActivity16.class));
+            }
+        });
+        findViewById(R.id.Button18).setOnClickListener(new View.OnClickListener()
+        {
+            @Override
+            public void onClick(View v)
+            {
+                startActivity(new Intent(MainActivity.this, MainActivity16.class));
+            }
+        });
+        findViewById(R.id.Button19).setOnClickListener(new View.OnClickListener()
+        {
+            @Override
+            public void onClick(View v)
+            {
+                startActivity(new Intent(MainActivity.this, MainActivity16.class));
+            }
+        });
     }
 }
